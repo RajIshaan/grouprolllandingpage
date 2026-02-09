@@ -48,7 +48,7 @@ const Hero = () => {
                         whileTap={{ scale: 0.95 }}
                     >
                         <Download size={20} />
-                        Download APK (v1.0-beta)
+                        Download APK (v1.1-beta)
                     </motion.a>
                     <motion.a
                         href="#features"

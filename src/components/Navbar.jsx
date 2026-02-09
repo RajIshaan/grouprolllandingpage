@@ -15,10 +15,10 @@ const Navbar = () => {
             <div className="nav-links">
                 <a href="#features">Features</a>
                 <a href="#about">About</a>
-                <a href="https://expo.dev/accounts/goofball/projects/group-roll-expo-mobile/builds/ce1b6f47-b57e-4534-bd30-ef96cfec9ef3" target="_blank">EAS Build</a>
+                <a href="https://expo.dev/accounts/goofball/projects/group-roll-expo-mobile/builds/ae1174ea-1c02-46e0-aaf6-3c8025cd3cad" target="_blank">EAS Build</a>
             </div>
             <motion.a
-                href="https://expo.dev/accounts/goofball/projects/group-roll-expo-mobile/builds/ce1b6f47-b57e-4534-bd30-ef96cfec9ef3"
+                href="https://expo.dev/accounts/goofball/projects/group-roll-expo-mobile/builds/ae1174ea-1c02-46e0-aaf6-3c8025cd3cad"
                 className="btn btn-secondary"
                 style={{ padding: '0.6rem 1.2rem', fontSize: '0.9rem' }}
                 whileHover={{ scale: 1.05 }}

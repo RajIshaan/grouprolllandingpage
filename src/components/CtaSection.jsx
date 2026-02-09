@@ -22,7 +22,7 @@ const CtaSection = () => {
                 </p>
                 <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                     <motion.a
-                        href="https://expo.dev/accounts/goofball/projects/group-roll-expo-mobile/builds/ce1b6f47-b57e-4534-bd30-ef96cfec9ef3"
+                        href="https://expo.dev/accounts/goofball/projects/group-roll-expo-mobile/builds/ae1174ea-1c02-46e0-aaf6-3c8025cd3cad"
                         className="btn btn-primary"
                         whileHover={{ scale: 1.05 }}
                         whileTap={{ scale: 0.95 }}

@@ -42,13 +42,13 @@ const Hero = () => {
 
                 <motion.div className="cta-group" variants={itemVariants}>
                     <motion.a
-                        href="https://expo.dev/accounts/goofball/projects/group-roll-expo-mobile/builds/f139e1a5-30c0-4c50-91a4-a85ccf711eeb"
+                        href="https://expo.dev/accounts/goofball/projects/group-roll-expo-mobile/builds/8d29b58c-7439-49eb-93bd-6582f421bacb"
                         className="btn btn-primary"
                         whileHover={{ scale: 1.05, translateY: -2 }}
                         whileTap={{ scale: 0.95 }}
                     >
                         <Download size={20} />
-                        Download APK (v1.3-beta)
+                        Download APK (v1.4-beta)
                     </motion.a>
                     <motion.a
                         href="#features"
